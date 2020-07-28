@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+}
+body{
+    background-image: url(pine\ 1.jpg);
+    
+}
+nav{
+    background-color: gray;
+    position: sticky;
+}
+ul li{
+    list-style: none;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    position: sticky;
+    
+}
+ul li a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+form{
+    text-align: center;
+}
+input[type=text], select {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color:black;
+  }
+  
+  input[type=submit] {
+    width: 50%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+  }
+  

@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Great Vibes', cursive;
+}
+nav{
+    background-color: gray;
+    position: sticky;
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+    font-size: 20px;
+    padding: 20px;
+    display: inline-flex;
+    position: sticky;
+    color: white;
+    text-decoration: none;
+}
+ul li a{
+    text-decoration: none;
+}
+body{
+    background-color: white;
+    font-size: 1.5rem;
+}
+.flexy{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 5rem;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    margin-bottom: 2rem;
+}
+img{
+    size: 300px;
+    height: 300px;
+}
+.lg{
+    margin-bottom: 2rem;
+}
+.contact us{
+    margin-top: 1rem ;
+}
